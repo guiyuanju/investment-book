@@ -1,0 +1,323 @@
+[
+  {
+    "text": "开始",
+    "items": [
+      {
+        "text": "阅读指南",
+        "link": "/guide"
+      },
+      {
+        "text": "全书目录",
+        "link": "/outline"
+      }
+    ]
+  },
+  {
+    "text": "第一部分 · 投资的基本观念",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "第1章 什么是投资",
+        "link": "/part01/ch01"
+      },
+      {
+        "text": "第2章 货币的时间价值与复利",
+        "link": "/part01/ch02"
+      },
+      {
+        "text": "第3章 风险与收益",
+        "link": "/part01/ch03"
+      },
+      {
+        "text": "第4章 通货膨胀与真实收益",
+        "link": "/part01/ch04"
+      },
+      {
+        "text": "第5章 投资之前：个人财务基础",
+        "link": "/part01/ch05"
+      }
+    ]
+  },
+  {
+    "text": "第二部分 · 金融市场与投资工具",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "第6章 金融体系全景",
+        "link": "/part02/ch06"
+      },
+      {
+        "text": "第7章 股票",
+        "link": "/part02/ch07"
+      },
+      {
+        "text": "第8章 债券",
+        "link": "/part02/ch08"
+      },
+      {
+        "text": "第9章 基金",
+        "link": "/part02/ch09"
+      },
+      {
+        "text": "第10章 现金管理工具与银行理财",
+        "link": "/part02/ch10"
+      },
+      {
+        "text": "第11章 房地产",
+        "link": "/part02/ch11"
+      },
+      {
+        "text": "第12章 大宗商品与黄金",
+        "link": "/part02/ch12"
+      },
+      {
+        "text": "第13章 衍生品入门",
+        "link": "/part02/ch13"
+      },
+      {
+        "text": "第14章 另类资产",
+        "link": "/part02/ch14"
+      }
+    ]
+  },
+  {
+    "text": "第三部分 · 市场如何运作",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "第15章 价格的形成：交易机制与流动性",
+        "link": "/part03/ch15"
+      },
+      {
+        "text": "第16章 有效市场假说及其争议",
+        "link": "/part03/ch16"
+      },
+      {
+        "text": "第17章 宏观经济与投资",
+        "link": "/part03/ch17"
+      },
+      {
+        "text": "第18章 利率：一切资产的定价之锚",
+        "link": "/part03/ch18"
+      },
+      {
+        "text": "第19章 汇率与全球市场",
+        "link": "/part03/ch19"
+      },
+      {
+        "text": "第20章 泡沫、危机与市场周期",
+        "link": "/part03/ch20"
+      }
+    ]
+  },
+  {
+    "text": "第四部分 · 世界主要股票市场",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "第21章 美国股市：长期回报的“标杆”",
+        "link": "/part04/ch21"
+      },
+      {
+        "text": "第22章 日本股市：泡沫、失去的三十年与复兴",
+        "link": "/part04/ch22"
+      },
+      {
+        "text": "第23章 中国股市：特点、问题与改革",
+        "link": "/part04/ch23"
+      }
+    ]
+  },
+  {
+    "text": "第五部分 · 读懂企业：基本面分析",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "第24章 财务报表入门",
+        "link": "/part05/ch24"
+      },
+      {
+        "text": "第25章 财务分析",
+        "link": "/part05/ch25"
+      },
+      {
+        "text": "第26章 识别财务造假与风险信号",
+        "link": "/part05/ch26"
+      },
+      {
+        "text": "第27章 商业模式与竞争优势",
+        "link": "/part05/ch27"
+      },
+      {
+        "text": "第28章 管理层与公司治理",
+        "link": "/part05/ch28"
+      }
+    ]
+  },
+  {
+    "text": "第六部分 · 估值",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "第29章 估值的核心思想",
+        "link": "/part06/ch29"
+      },
+      {
+        "text": "第30章 绝对估值：现金流折现",
+        "link": "/part06/ch30"
+      },
+      {
+        "text": "第31章 相对估值：倍数法",
+        "link": "/part06/ch31"
+      },
+      {
+        "text": "第32章 安全边际与估值陷阱",
+        "link": "/part06/ch32"
+      }
+    ]
+  },
+  {
+    "text": "第七部分 · 投资流派与方法论",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "第33章 价值投资",
+        "link": "/part07/ch33"
+      },
+      {
+        "text": "第34章 成长投资",
+        "link": "/part07/ch34"
+      },
+      {
+        "text": "第35章 指数化与被动投资",
+        "link": "/part07/ch35"
+      },
+      {
+        "text": "第36章 因子投资与量化投资",
+        "link": "/part07/ch36"
+      },
+      {
+        "text": "第37章 技术分析：作用与局限",
+        "link": "/part07/ch37"
+      },
+      {
+        "text": "第38章 宏观投资与全球资产配置",
+        "link": "/part07/ch38"
+      },
+      {
+        "text": "第39章 收入型投资",
+        "link": "/part07/ch39"
+      }
+    ]
+  },
+  {
+    "text": "第八部分 · 投资组合构建与风险管理",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "第40章 分散化与现代投资组合理论",
+        "link": "/part08/ch40"
+      },
+      {
+        "text": "第41章 资产配置",
+        "link": "/part08/ch41"
+      },
+      {
+        "text": "第42章 风险度量",
+        "link": "/part08/ch42"
+      },
+      {
+        "text": "第43章 杠杆",
+        "link": "/part08/ch43"
+      },
+      {
+        "text": "第44章 执行：定投、再平衡与成本",
+        "link": "/part08/ch44"
+      }
+    ]
+  },
+  {
+    "text": "第九部分 · 投资者心理与行为金融",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "第45章 认知偏差",
+        "link": "/part09/ch45"
+      },
+      {
+        "text": "第46章 群体心理与市场情绪",
+        "link": "/part09/ch46"
+      },
+      {
+        "text": "第47章 建立投资纪律",
+        "link": "/part09/ch47"
+      }
+    ]
+  },
+  {
+    "text": "第十部分 · 投资世界观与方法论",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "第48章 投资的第一性原理",
+        "link": "/part10/ch48"
+      },
+      {
+        "text": "第49章 概率思维与决策",
+        "link": "/part10/ch49"
+      },
+      {
+        "text": "第50章 能力圈与认知边界",
+        "link": "/part10/ch50"
+      },
+      {
+        "text": "第51章 长期主义",
+        "link": "/part10/ch51"
+      }
+    ]
+  },
+  {
+    "text": "第十一部分 · 实践指南（以日本为主）",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "第52章 在日本投资：账户、制度与税",
+        "link": "/part11/ch52"
+      },
+      {
+        "text": "第53章 制定个人投资计划",
+        "link": "/part11/ch53"
+      },
+      {
+        "text": "第54章 识别骗局与陷阱",
+        "link": "/part11/ch54"
+      },
+      {
+        "text": "第55章 持续学习",
+        "link": "/part11/ch55"
+      }
+    ]
+  },
+  {
+    "text": "附录",
+    "collapsed": true,
+    "items": [
+      {
+        "text": "附录A 术语表",
+        "link": "/appendix/glossary"
+      },
+      {
+        "text": "附录B 公式速查",
+        "link": "/appendix/formulas"
+      },
+      {
+        "text": "附录C 金融史大事年表",
+        "link": "/appendix/timeline"
+      },
+      {
+        "text": "附录D 参考文献与延伸阅读",
+        "link": "/appendix/references"
+      }
+    ]
+  }
+]
