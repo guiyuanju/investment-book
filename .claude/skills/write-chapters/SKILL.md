@@ -33,7 +33,10 @@ description: 为《投资的世界》撰写、审阅、修复章节的标准流�
    - 所有计算都用 `python3` 重算一遍，不要心算。
    - 2024 年以后的数据、制度、利率、法规，以及任何不确定的数字，**必须用 WebSearch 核实**，不能凭记忆写。今天的日期以系统提示为准。
    - 无法核实的说法：删掉，或者软化为不含具体数字的表述，或者注明“据报道”。
-   - 每个会话的 WebSearch 有次数上限（约 200 次，审阅 subagent 也会消耗）。写作时优先搜索最不确定的事实；额度用完后，用 WebFetch 直接打开官方页面，或用 `curl` 调用公开数据接口（例如天天基金网的历史净值）核实。
+   - 每个会话的 WebSearch 有次数上限（约 200 次，审阅 subagent 也会消耗）。写作时优先搜索最不确定的事实；额度用完后，用 WebFetch 直接打开官方页面，或用 `curl` 调用公开数据接口（例如天天基金网的历史净值）核实。可用的替代手段：
+     - 搜索：用 python 向 `https://html.duckduckgo.com/html/` POST `q=查询词`，解析 `result__a` / `result__snippet`，可以代替 WebSearch（审阅 subagent 也可以用，写一个小脚本放在 scratchpad 里，在 prompt 中告诉它路径）。
+     - 时间序列：FRED 的 `https://fred.stlouisfed.org/graph/fredgraph.csv?id=系列名`（如 DGS10、DEXJPUS、NIKKEI225、NASDAQCOM、CPIAUCSL）；上证指数可用新浪 `money.finance.sina.com.cn/quotes_service/api/json_v2.php/CN_MarketData.getKLineData?symbol=sh000001&scale=240&datalen=3500`；美国长期回报可用达摩达兰的 histretSP 表。
+     - PDF（如日本银行的公表文）：用 curl 下载后，直接用 Read 工具读取。
 5. **构建检查**：`npm run build` 必须成功（会检查死链）。
 
 ## 第 2 步：审阅（使用 subagent）
